@@ -8,7 +8,7 @@ def initialize(word)
 end
 
 def match(word_array)
-  @word.select {|word| word.split("")
+  word_array.select {|word| word.split("")
 end
   
 end
