@@ -9,6 +9,7 @@ end
 
 def match(word_array)
   word_array.select {|words| @word.split("").sort == words.split("").sort}
-  end
+end
+
 end
   
