@@ -8,7 +8,7 @@ def initialize(word)
 end
 
 def match(word)
-  @
+  @word.collect {
 end
   
 end
